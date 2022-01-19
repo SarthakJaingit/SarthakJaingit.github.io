@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   address: >
     <p>555 your office number</p>
-    <p>55 Ellenwood Ave</p>
+    <p>Some street</p>
     <p>Los Gatos, California 95030</p>
 
 news: true  # includes a list of news items
