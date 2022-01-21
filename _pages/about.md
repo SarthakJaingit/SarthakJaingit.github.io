@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: /img/prof_pic.jpg
+  image: sarthak_prof_pic.jpeg
   address: >
     <p>555 your office number</p>
     <p>Some street</p>
