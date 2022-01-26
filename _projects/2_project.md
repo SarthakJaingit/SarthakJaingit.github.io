@@ -1,7 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
+title: Detection of Rice Leaf Disease
+description: Using a small rice leaf dataset, I used different machine learning techniques and build different convolutional neural networks to better classify which leaves had what disease.
+The repository has the final notebook code along with the small dataset.
 img: assets/img/3.jpg
 importance: 2
 category: work
