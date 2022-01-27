@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: jainsarthak101@gmail.com (408-425-2907)
+subtitle: Email: jainsarthak101@gmail.com 
+subtitle: Mobile: (408-425-2907)
 
 profile:
   align: right
