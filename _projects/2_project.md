@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Rice Leaf Disease Detection
-description: Using a small rice leaf dataset, I used different machine learning techniques and build different convolutional neural networks to better classify which leaves had what disease. ggyyftyftf
+title: Artificially Intelligent Food Assistant for the Visually-Impaired based on on An Agtech inspired Technology 
+description: My system is an interface which utilizes many advancements in Artificial Intelligence to make visual evaluations of a variety of both fresh and packaged food for the visually impaired. A central part of our technology is heavily influenced by past AgTech work in the field especially on quality control.  
 img: assets/img/3.jpg
 importance: 2
 category: work
