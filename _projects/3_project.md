@@ -1,16 +1,7 @@
 ---
 layout: page
 title: Rice Leaf Diseases Detection
-description: Using a small rice leaf dataset, I used different machine learning techniques and build different convolutional neural networks to better classify which leaves had what disease: Brown Spot, Leaf Smut, or Bacterial Leaf Blight
-img: assets/img/7.jpg
-redirect: https://github.com/SarthakJaingit/Rice-Leaf-Diseases-Detection
-importance: 3
-category: work
----
----
-layout: page
-title: project 3
-description: a project that redirects to another website
+description: I used different ML sklearn techniques and build different convolutional neural networks to better classify 
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
