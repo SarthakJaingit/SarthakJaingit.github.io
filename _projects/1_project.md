@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Maximizing a Harvest An Affordable and Autonomous Rover (FAR)
-description: Maximizing a Harvest - An Affordable and Autonomous Rover (FAR) To Assist In Agricultural Production For Lower-Income Countries
+description: An Affordable and Autonomous Rover (FAR) To Assist In Agricultural Production For Lower-Income Countries
 img: assets/img/12.jpg
 importance: 1
 category: work
