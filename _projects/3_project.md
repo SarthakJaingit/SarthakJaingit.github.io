@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AI Food Assistant for the Visually Impaired (An Agtech inspired Technology) 
+title: Rice Leaf Diseases Detection
 description: I used different sklearn supervised ML techniques and build different convolutional neural networks to better classify which leaves had what disease -  Brown Spot, Leaf Smut, or Bacterial Leaf Blight
 img: assets/img/DSC_0385.jpg
 importance: 3
