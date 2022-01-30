@@ -81,16 +81,16 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Sarthak Jain's Newsletter  # your blog must have a name for it to show up in the nav bar
-blog_description: A newsletter about Agriculture and AI. Currently, I am working on a documenting a series of a posts on my work with the Farming Autonomous Rover (FAR)
-permalink: /blog/:year/:title/
+#blog_name: Sarthak Jain's Newsletter  # your blog must have a name for it to show up in the nav bar
+#blog_description: A newsletter about Agriculture and AI. Currently, I am working on a documenting a series of a posts on my work with the Farming Autonomous Rover (FAR)
+#permalink: /blog/:year/:title/
 
 # Pagination
-pagination:
-  enabled: true
+#pagination:
+#  enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+#disqus_shortname: al-folio # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # -----------------------------------------------------------------------------
