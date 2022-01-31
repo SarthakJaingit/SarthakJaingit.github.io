@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Contact - jainsarthak101@gmail.com (408-425-2907)
+subtitle: Contact - jainsarthak101@gmail.com
 
 profile:
   align: right
