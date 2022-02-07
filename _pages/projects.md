@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Independent projects
+title: projects
 permalink: /projects/
 description: Below are projects that I am pursuing indepedent of my current work as a Research Assistant.
 nav: true
