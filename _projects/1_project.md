@@ -7,7 +7,7 @@ importance: 1
 category: work
 ---
 
-An affordable and autonomous Rover called the Farming Autonomous Rover (FAR) built to assist in agricultural production for lower-income countries
+An affordable and autonomous Rover called the Farming Autonomous Rover (FAR) built to assist in agricultural production for lower-income countries.
 
 View the [Introductory Blog](https://sarthakj.substack.com/p/creating-a-farming-autonomous-rover)
 
