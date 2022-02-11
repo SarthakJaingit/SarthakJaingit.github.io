@@ -7,7 +7,7 @@ importance: 1
 category: work
 ---
 
-My system is an interface which utilizes many advancements in Artificial Intelligence to make visual evaluations of a variety of both fresh and packaged food for the visually impaired.
+An affordable and autonomous Rover called the Farming Autonomous Rover (FAR) built to assist in agricultural production for lower-income countries
 
 View the [Introductory Blog](https://sarthakj.substack.com/p/creating-a-farming-autonomous-rover)
 
